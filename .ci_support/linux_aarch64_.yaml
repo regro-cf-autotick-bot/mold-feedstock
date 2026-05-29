@@ -13,13 +13,13 @@ cxx_compiler_version:
 docker_image:
 - quay.io/condaforge/linux-anvil-x86_64:alma9
 mimalloc:
-- 3.2.7
+- 3.3.2
 openssl:
 - '3.5'
 target_platform:
 - linux-aarch64
 tbb_devel:
-- '2022'
+- '2023'
 zlib:
 - '1'
 zstd:
